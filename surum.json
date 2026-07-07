@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/semyh0054/BACKO/releases/download/v1.1.0/BACKO_Kurulum_1.1.0.exe",
-  "notes": "- Kart terminali (POS) ve ÖKC altyapısı\n- Gider, Alış/Tedarikçi, Vardiya modülleri\n- Sadakat/puan, depo sayımı, çoklu şube birleştirme\n- Fiş düzeni ve arayüz yazı tipi ayarları\n- Otomatik yedekleme, hata kaydı, otomatik güncelleme",
+  "version": "1.1.1",
+  "url": "https://github.com/semyh0054/BACKO/releases/download/v1.1.1/BACKO_Kurulum_1.1.1.exe",
+  "notes": "Otomatik güncelleme demo sürümü (1.1.1) — küçük iyileştirmeler.",
   "mandatory": false
 }
