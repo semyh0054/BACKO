@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/semyh0054/BACKO/releases/download/v1.1.1/BACKO_Kurulum_1.1.1.exe",
-  "notes": "Otomatik güncelleme demo sürümü (1.1.1) — küçük iyileştirmeler.",
+  "version": "1.1.2",
+  "url": "https://github.com/semyh0054/BACKO/releases/download/v1.1.2/BACKO_Kurulum_1.1.2.exe",
+  "notes": "Sürüm 1.1.2 yenilikleri:\n- Puanla ödeme: sadakat puanı kasada indirim olarak kullanılabiliyor\n- Kısmi iade akışı: satıştan seçili ürünler iade edilebiliyor (stok ve borç güncellenir)\n- Denetim kaydı (audit log): kim ne zaman hangi işlemi yaptı izlenebiliyor\n- Fişte puan indirimi satırı\n- İletişim bilgileri güncellendi",
   "mandatory": false
 }
