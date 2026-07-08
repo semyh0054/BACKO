@@ -4,3 +4,14 @@
   "notes": "Sürüm 1.1.3 yenilikleri:\n- USB/harici klasöre otomatik yedekleme (disk arızasına karşı ek güvenlik)\n- Raporları CSV (Excel) olarak dışa aktarma: satışlar, ürünler, müşteriler, denetim kaydı\n- Müşteri ve tedarikçi hesap ekstresi yazdırma (cari döküm + bakiye)",
   "mandatory": false
 }
+{
+  "version": "1.1.3",
+  "url": "...",
+  "notes": "...",
+  "mandatory": false,
+  "announcement": {
+    "id": "2026-07-08-1",
+    "title": "Duyuru",
+    "body": "Merhaba! Puanla ödeme ve iade eklendi.\nYakında kart terminali gelecek."
+  }
+}
