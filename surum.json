@@ -2,5 +2,10 @@
   "version": "1.1.4",
   "url": "https://github.com/semyh0054/BACKO/releases/download/v1.1.4/BACKO_Kurulum_1.1.4.exe",
   "notes": "Sürüm 1.1.4 yenilikleri:\n- Sol menü kaydırılabilir (tüm sekmelere ve Hakkında'ya erişim)\n- Vardiya kasa hesabı ve satış adedi düzeltmeleri\n- USB'ye yedek, CSV dışa aktarma ve cari ekstre",
-  "mandatory": false
+  "mandatory": false,
+  "announcement": {
+    "id": "2026-07-09-1",
+    "title": "BACKO'ya Hoş Geldiniz",
+    "body": "Merhaba! BACKO'yu tercih ettiğiniz için teşekkürler.\n\nSon eklenen özellikler:\n- Sadakat puanı ve puanla ödeme\n- İade / kısmi iade\n- USB'ye otomatik yedek, CSV dışa aktarma, cari ekstre\n- Denetim kaydı (kim ne yaptı)\n\nYakında: kart terminali / ÖKC entegrasyonu.\n\nDestek: backomarketotomasyon@gmail.com · +90 539 428 22 54"
+  }
 }
