@@ -1,11 +1,11 @@
 {
-  "version": "1.1.5",
-  "url": "https://github.com/semyh0054/BACKO/releases/download/v1.1.5/BACKO_Kurulum_1.1.5.exe",
-  "notes": "Sürüm 1.1.5 yenilikleri:\n- Satış ekranında ürün satırına 'Etiket' butonu: tek dokunuşla o ürünün etiketi basılır (tartılı üründe ağırlık ve tutar gömülü)\n- Müşteri ve tedarikçi kaydında açılış bakiyesi (devir): yazılıma geçmeden önceki borç/alacak girilebilir\n- Müşteri ve tedarikçi ekranlarında toplam borç/alacak özeti\n- Modern köşe bildirimleri (renkli, ikonlu, otomatik kapanan uyarılar)\n- Farklı tartı ve termal yazıcı marka/modelleriyle uyum iyileştirmeleri",
+  "version": "1.1.6",
+  "url": "https://github.com/semyh0054/BACKO/releases/download/v1.1.6/BACKO_Kurulum_1.1.6.exe",
+  "notes": "Sürüm 1.1.6 yenilikleri:\n- Satış ekranında ürün satırına 'Etiket' butonu: tek dokunuşla o ürünün etiketi basılır (tartılı üründe ağırlık ve tutar gömülü)\n- Müşteri ve tedarikçi kaydında açılış bakiyesi (devir): yazılıma geçmeden önceki borç/alacak girilebilir\n- Müşteri ve tedarikçi ekranlarında toplam borç/alacak özeti\n- Modern köşe bildirimleri (renkli, ikonlu, otomatik kapanan uyarılar)\n- Farklı tartı ve termal yazıcı marka/modelleriyle uyum iyileştirmeleri",
   "mandatory": false,
   "announcement": {
     "id": "2026-07-30-1",
-    "title": "BACKO 1.1.5 — Yeni Özellikler",
-    "body": "Merhaba! Yeni güncellemeyle gelen özellikler:\n\n- Satışta 'Etiket' butonu: sepetteki ürünün etiketini tek dokunuşla basın\n- Açılış bakiyesi (devir): yeni müşteri/tedarikçi eklerken eski borç/alacağı girin\n- Müşteri ve tedarikçi ekranlarında toplam borç/alacak özeti\n- Yenilenmiş modern bildirimler\n- Farklı tartı/yazıcı marka-modelleriyle daha uyumlu çalışma\n\nDestek: backomarketotomasyon@gmail.com · +90 539 428 22 54"
+    "title": "BACKO 1.1.6 — Yeni Özellikler",
+    "body": "Merhaba! Yeni güncellemeyle gelen özellikler:\n-Alış ekranında yapılan yeni düzenlemeler\n\nDestek: backomarketotomasyon@gmail.com · +90 539 428 22 54"
   }
 }
